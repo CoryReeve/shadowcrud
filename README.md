@@ -1,2 +1,2 @@
-# shadowcrud
-CRUD for Shadowrun character. Tracks basic stats
+# Shadowcrud
+CRUD for Shadowrun characters. Tracks basic information and stats
